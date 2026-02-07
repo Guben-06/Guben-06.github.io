@@ -1,0 +1,37 @@
+div {
+    margin: 40px;
+    font-size: 40px;
+    color: rgb(208,148,234);
+	background-image: url("");
+	 width: 100px;
+	
+    height: 5em;
+
+}
+body{
+background-color: pink
+
+}
+p{ 
+margin: 15px
+fontsice: 16px
+font-family: "arial 16px italic"
+color: rgb (100,99,100)}
+body {
+    
+    font-family: Harlow ;
+    font-size: 16px;
+    font-style: Solid Italic;
+    font-weight: bolder;
+	color: black 
+	border-color: red;
+	width: 900px;
+	margin: 15px;
+}
+li{ color: red;
+
+  }
+
+ul {
+font-size: 12px;
+}
