@@ -26,7 +26,7 @@ body {
 	color: black 
 	border-color: red;
 	width: 900px;
-	margin: 15px;
+	margin: 10px;
 }
 li{ color: red;
 
@@ -34,4 +34,5 @@ li{ color: red;
 
 ul {
 font-size: 12px;
+
 }
