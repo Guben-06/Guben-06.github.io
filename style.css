@@ -27,8 +27,6 @@ body {
 	border-color: red;
 	width: 900px;
 	margin: 5px;
-  max-width: 600px;
-}
 }
 li{ color: red;
 
@@ -38,6 +36,7 @@ ul {
 font-size: 12px;
 
 }
+
 
 
 
