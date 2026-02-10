@@ -11,7 +11,7 @@ div {
 body{
 background-color: pink;
   max-width: 600px;
-	color: red;
+	color: black;
 }
 p{ 
 margin: 15px
@@ -29,14 +29,16 @@ body {
 	width: 900px;
 	margin: 5px;
 }
-li{ color: red;
+li{ color: black;
 
   }
 
 ul {
 font-size: 12px;
+	color: red;
 
 }
+
 
 
 
