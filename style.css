@@ -9,8 +9,8 @@ div {
 
 }
 body{
-background-color: pink
-
+background-color: pink;
+  max-width: 600px;
 }
 p{ 
 margin: 15px
@@ -23,7 +23,7 @@ body {
     font-size: 16px;
     font-style: Solid Italic;
     font-weight: bolder;
-	color: black 
+	color: black;
 	border-color: red;
 	width: 900px;
 	margin: 5px;
@@ -36,6 +36,7 @@ ul {
 font-size: 12px;
 
 }
+
 
 
 
